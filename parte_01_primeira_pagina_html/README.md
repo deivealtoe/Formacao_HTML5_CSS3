@@ -15,8 +15,6 @@
   - Uso de tags
   - Melhorando o texto
   - Estrutura de ênfase correta
-  - Consolidando o seu conhecimento
-  - O que aprendemos?
 
 - Separando o conteúdo e informações
   - Projeto da aula anterior
@@ -26,8 +24,6 @@
   - Lidando com a acentuação
   - Separando conteúdo e informações
   - Estrutura de conteúdo
-  - Consolidando o seu conhecimento
-  - O que aprendemos?
 
 - Trabalhando com CSS
   - Projeto da aula anterior
@@ -39,8 +35,6 @@
   - Estilo em cascata
   - Extra: Cores hexadecimais
   - Representando cores no CSS
-  - Consolidando o seu conhecimento
-  - O que aprendemos?
 
 - Estilizando imagens
   - Projeto da aula anterior
@@ -49,8 +43,6 @@
   - CSS para imagens
   - Alterando a largura de um elemento
   - Extra: Time de Front-End
-  - Consolidando o seu conhecimento
-  - O que aprendemos?
 
 - Listas e divisões de conteúdo
   - Projeto da aula anterior
@@ -60,8 +52,6 @@
   - Criando blocos de conteúdo
   - Inline e Block
   - Quando usar a propriedade class
-  - Consolidando o seu conhecimento
-  - O que aprendemos?
 
 - Finalizando a página
   - Projeto da aula anterior
@@ -69,8 +59,6 @@
   - Tag de cabeçalho
   - Consolidando o seu conhecimento
   - Projeto do curso
-  - O que aprendemos?
-  - Conclusão
 
 ---
 
