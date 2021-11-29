@@ -10,7 +10,7 @@ Praticamente todo produto digital precisa de um front-end Web, por isso é um me
 
 A formação HTML e CSS da Alura foi pensada para você que quer se tornar uma pessoa desenvolvedora front-end, iniciar seus estudos de forma leve e prática.
 
-### Parte 01 HTML & CSS
+### Módulo 01 HTML & CSS
 
 O segredo de um site profissional é ter como base um bom HTML. Mais que conhecer todos os elementos do HTML, é saber a importância de um código semântico e bem estruturado. Além disso, entender o papel do CSS em potencializar as informações do HTML, estruturando em layouts de colunas e linhas, além dos devidos destaques visuais, como cores, fontes, tamanhos e mais recursos. Aqui, você entenderá do que se constitui os fundamentos para o desenvolvimento de uma página para Web.
 
@@ -18,14 +18,14 @@ O segredo de um site profissional é ter como base um bom HTML. Mais que conhece
 - [Post HTML, CSS e Javascript, quais as diferenças? | Alura Cursos Online](https://www.alura.com.br/artigos/html-css-e-js-definicoes) ✔️
 - [Curso HTML5 e CSS3 parte 1: A primeira página da Web](./parte_01_primeira_pagina_html) ✔️
 - [Curso HTML5 e CSS3 parte 2: Posicionamento, listas e navegação](./parte_02_posicionamento_listas_navegacao) ✔️
-- Curso HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas
+- [Curso HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas](./parte_03_formularios_e_tabelas)
 - Curso HTML5 e CSS3 parte 4: Avançando no CSS
 - [Post Reset CSS: O que é, Exemplos, Como Criar e Utilizar | Alura Cursos Online](https://www.alura.com.br/artigos/o-que-e-reset-css)
 - Alura+ Box Model e Box Sizing
 - [Post Z-index: Como utilizar essa propriedade do CSS | Alura Cursos Online](https://www.alura.com.br/artigos/z-index-utilizar-essa-propriedade-css)
 
 
-### Parte 02 Layouts modernos para a Web
+### Módulo 02 Layouts modernos para a Web
 
 Um site moderno é também aquele que dá suporte a uma diversidade de tamanhos, formatos e resoluções de telas, ou seja, deve ser responsivo. Hoje, o uso da Web por um smartphone já é maior que por um computador, portanto isso torna imprescindível sabermos como criar sites priorizando esse contexto e conhecer quais técnicas do HTML e CSS facilitam esse desenvolvimento web mobile.
 
