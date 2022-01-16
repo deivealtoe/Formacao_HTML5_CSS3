@@ -18,7 +18,7 @@ O segredo de um site profissional é ter como base um bom HTML. Mais que conhece
 - [Post HTML, CSS e Javascript, quais as diferenças? | Alura Cursos Online](https://www.alura.com.br/artigos/html-css-e-js-definicoes) ✔️
 - [Curso HTML5 e CSS3 parte 1: A primeira página da Web](./parte_01_primeira_pagina_html) ✔️
 - [Curso HTML5 e CSS3 parte 2: Posicionamento, listas e navegação](./parte_02_posicionamento_listas_navegacao) ✔️
-- [Curso HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas](./parte_03_formularios_e_tabelas)
+- [Curso HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas](./parte_03_formularios_e_tabelas) ✔️
 - Curso HTML5 e CSS3 parte 4: Avançando no CSS
 - [Post Reset CSS: O que é, Exemplos, Como Criar e Utilizar | Alura Cursos Online](https://www.alura.com.br/artigos/o-que-e-reset-css)
 - Alura+ Box Model e Box Sizing
